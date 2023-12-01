@@ -1,4 +1,4 @@
-# Learning_HTML_Basics
+# Learning_HTML_and_CSS
 
 ## Topics Covered 
 
